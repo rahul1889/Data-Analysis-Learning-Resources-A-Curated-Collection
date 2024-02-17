@@ -55,7 +55,7 @@ This document provides a comprehensive list of resources I have gathered to supp
 - https://mavenanalytics.io/data-playground
 - Fake data generator - Mockaroo: https://www.mockaroo.com/sign-in
   
-- **Portfolio Projects:**
+**Portfolio Projects:**
 - https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f
 - https://www.youtube.com/watch?v=XYKuslcJp7A
 
